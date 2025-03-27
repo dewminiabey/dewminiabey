@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewminiabey&show_icons=true&locale=en&layout=compact" alt="dewminiabey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewminiabey&show_icons=true&locale=en" alt="dewminiabey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewminiabey&" alt="dewminiabey" /></p>
+
